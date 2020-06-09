@@ -20,4 +20,5 @@ It should look like this, with your google info.
 }
 ```
 More info on setting up the speech recognition api here: https://pypi.org/project/SpeechRecognition/
+
 Troubleshooting: https://github.com/Uberi/speech_recognition/issues/294
